@@ -14,6 +14,10 @@ Here's a list of the Kaggle courses available in this repository:
 
 - Delve deeper into machine learning concepts and techniques.
 
+### :camera: Computer Vision
+- Build convolutional neural networks with TensorFlow and Keras for image analysis.
+  
+
 ## Repository Structure :file_folder:
 
 This repository is organized by courses and contains the following structure:
@@ -48,7 +52,7 @@ This repository is organized by courses and contains the following structure:
 ## Progress :trophy:
 
 - Completed **Intro to Machine Learning** course.
-- Currently enrolled in **Intermediate Machine Learning** course.
+- Currently enrolled in **Intermediate Machine Learning** and **Computer Vision** courses.
 
 Feel free to explore the content, learn from it, and contribute by sharing your own insights and solutions. Learning is a continuous journey, and this repository is here to help you along the way. Happy coding and learning! :star:
 
